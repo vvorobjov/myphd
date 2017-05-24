@@ -1,0 +1,369 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Sokolov}
+\selectlanguageifdefined{russian}
+\BibEmph{Соколов~А.~Н., Сердобинцев~К.~С.}
+  Гражданское общество: проблемы
+  формирования и развития (философский и
+  юридический аспекты): монография~/ {Под
+  ред. }В.~М.~Бочарова. ---
+\newblock Астрахань: Калиниградский ЮИ МВД
+  России, 2009. ---
+\newblock 218~{с.}
+
+\bibitem{Gaidaenko}
+\selectlanguageifdefined{russian}
+\BibEmph{Гайдаенко~Т.~А.} Маркетинговое
+  управление: принципы управленческих
+  решений и российская практика. ---
+\newblock 3-е изд, перераб. и доп. {изд.} ---
+\newblock М.: Эксмо: МИРБИС, 2008. ---
+\newblock 508~{с.}
+
+\bibitem{Lermontov}
+\selectlanguageifdefined{russian}
+\BibEmph{Лермонтов~Михаил~Юрьевич}. Собрание
+  сочинений: в 4 т. ---
+\newblock М.: Терра-Кн. клуб, 2009. ---
+\newblock 4 т.
+
+\bibitem{Management}
+\selectlanguageifdefined{russian}
+Управление бизнесом: сборник статей. ---
+\newblock Нижний новгород: Изд-во
+  Нижегородского университета, 2009. ---
+\newblock 243~{с.}
+
+\bibitem{Borozda}
+\selectlanguageifdefined{russian}
+\BibEmph{Борозда~И.~В., Воронин~Н.~И.,
+  Бушманов~А.~В.} Лечение сочетанных
+  повреждений таза. ---
+\newblock Владивосток: Дальнаука, 2009. ---
+\newblock 195~{с.}
+
+\bibitem{Marketing}
+\selectlanguageifdefined{russian}
+Маркетинговые исследования в
+  строительстве: учебное пособие для
+  студентов специальности «Менеджемент
+  организаций»~/ О.~В.~Михненков,
+  И.~З.~Коготкова, Е.~В.~Генкин, Г.~Я.~Сороко. ---
+\newblock М.: Государственный университет
+  управления, 2005. ---
+\newblock 59~{с.}
+
+\bibitem{Constitution}
+\selectlanguageifdefined{russian}
+Конституция Российской Федерации: офиц.
+  текст. ---
+\newblock М.: Маркетинг, 2001. ---
+\newblock 39~{с.}
+
+\bibitem{FamilyCode}
+\selectlanguageifdefined{russian}
+Семейный кодекс Российской Федерации:
+  [федер. закон: принят Гос. Думой 8 дек. 1995~г.:
+  по состоянию на 3~янв. 2001~г.]. ---
+\newblock СПб.: Стаун-кантри, 2001. ---
+\newblock 94~{с.}
+
+\bibitem{Gost.7.0.53}
+\selectlanguageifdefined{russian}
+ГОСТ Р 7.0.53-2007 Система стандартов по
+  информации, библиотечному и
+  издательскому делу. Издания.
+  Международный стандартный книжный номер.
+  Использование и издательское оформление.
+  ---
+\newblock М.: Стандартинформ, 2007. ---
+\newblock 5~{с.}
+
+\bibitem{Razumovski}
+\selectlanguageifdefined{russian}
+\BibEmph{Разумовский~В.~А., Андреев~Д.~А.}
+  Управление маркетинговыми
+  исследованиями в регионе. ---
+\newblock М., 2002. ---
+\newblock 210~{с.} ---
+\newblock Деп. в ИНИОН Рос. акад. наук 15.02.02, №
+  139876.
+
+\bibitem{Lagkueva}
+\selectlanguageifdefined{russian}
+\BibEmph{Лагкуева~Ирина~Владимировна}.
+  Особенности регулирования труда
+  творческих работников театров: дис. ...
+  канд. юрид. наук: 12.00.05. ---
+\newblock М., 2009. ---
+\newblock 168~{с.}
+
+\bibitem{Pokrovski}
+\selectlanguageifdefined{russian}
+\BibEmph{Покровский~Андрей~Владимирович}.
+  Устранимые особенности решений
+  эллиптических уравнений: дис. ... д-ра
+  физ.-мат. наук: 01.01.01. ---
+\newblock М., 2008. ---
+\newblock 178~{с.}
+
+\bibitem{Sirotko}
+\selectlanguageifdefined{russian}
+\BibEmph{Сиротко~Владимир~Викторович}.
+  Медико-социальные аспекты городского
+  травматизма в современных условиях :
+  автореф. дис. ... канд. мед. наук : 14.00.33. ---
+\newblock М., 2006. ---
+\newblock 26~{с.}
+
+\bibitem{Lukina}
+\selectlanguageifdefined{russian}
+\BibEmph{Лукина~Валентина~Александровна}.
+  Творческая история «Записок охотника» И.
+  С. Тургенева: автореф. дис. ... канд. филол.
+  наук : 10.01.01. ---
+\newblock СПб., 2006. ---
+\newblock 26~{с.}
+
+\bibitem{Methodology}
+\selectlanguageifdefined{russian}
+\BibEmph{Загорюев~А.~Л.} Методология и методы
+  изучения военно-профессиональной
+  направленности подростков: отчёт о НИР. ---
+\newblock Екатеринбург, 2008. ---
+\newblock 102~{с.}
+
+\bibitem{Encyclopedia}
+\selectlanguageifdefined{russian}
+Художественная энциклопедия зарубежного
+  классического искусства [Электронный
+  ресурс]. ---
+\newblock М.: Большая Рос. энкцикл., 1996. ---
+\newblock 1 электрон. опт. диск (CD-ROM).
+
+\bibitem{Nasirova}
+\selectlanguageifdefined{russian}
+\BibEmph{Насырова~Г.~А.} Модели
+  государственного регулирования
+  страховой деятельности [Электронный
+  ресурс]~// \BibEmph{Вестник Финансовой
+  академии}. ---
+\newblock 2003. ---
+\newblock {№}~4. ---
+\newblock Режим доступа: http://vestnik.fa.ru/4(28)2003/4.html.
+
+\bibitem{Berestova}
+\selectlanguageifdefined{russian}
+\BibEmph{Берестова~Т.~Ф.} Поисковые инструмены
+  библиотеки~// \BibEmph{Библиография}. ---
+\newblock 2006. ---
+\newblock {№}~4. ---
+\newblock {С.}~19.
+
+\bibitem{Kriger}
+\selectlanguageifdefined{russian}
+\BibEmph{Кригер~И.} Бумага терпит~// \BibEmph{Новая
+  газета}. ---
+\newblock 2009. ---
+\newblock 1 июля.
+
+\bibitem{Article}
+\selectlanguageifdefined{english}
+\BibEmph{Adams~Peter}. The title of the work~// \BibEmph{The name of the
+  journal}. ---
+\newblock 1993. --- 7. ---
+\newblock Vol.~4, no.~2. ---
+\newblock Pp.~201--213. ---
+\newblock An optional note.
+
+\bibitem{Book}
+\selectlanguageifdefined{english}
+\BibEmph{Babington~Peter}. The title of the work. ---
+\newblock 3 edition. ---
+\newblock The address: The name of the publisher, 1993. --- 7. ---
+\newblock Vol.~4 of \BibEmph{10}. ---
+\newblock An optional note.
+
+\bibitem{Booklet}
+\selectlanguageifdefined{english}
+\BibEmph{Caxton~Peter}. The title of the work. ---
+\newblock How it was published, The address of the publisher, 1993. --- 7. ---
+\newblock An optional note.
+
+\bibitem{Conference}
+\selectlanguageifdefined{english}
+\BibEmph{Draper~Peter}. The title of the work~// The title of the book~/ Ed. by
+  The~editor; The organization. ---
+\newblock Vol.~4 of \BibEmph{5}. ---
+\newblock The address of the publisher: The publisher, 1993. --- 7. ---
+\newblock P.~213. ---
+\newblock An optional note.
+
+\bibitem{Inbook}
+\selectlanguageifdefined{english}
+\BibEmph{Eston~Peter}. The title of the work~// Book title. ---
+\newblock 3 edition. ---
+\newblock The address of the publisher: The name of the publisher, 1993. --- 7.
+  ---
+\newblock Vol.~4 of \BibEmph{5}. ---
+\newblock Pp.~201--213. ---
+\newblock An optional note.
+
+\bibitem{Incollection}
+\selectlanguageifdefined{english}
+\BibEmph{Farindon~Peter}. The title of the work~// The title of the book~/ Ed.
+  by The~editor. ---
+\newblock The address of the publisher: The name of the publisher, 1993. --- 7.
+  ---
+\newblock Vol.~4 of \BibEmph{5}. ---
+\newblock Pp.~201--213. ---
+\newblock An optional note.
+
+\bibitem{Manual}
+\selectlanguageifdefined{english}
+\BibEmph{Gainsford~Peter}. ---
+\newblock The title of the work. ---
+\newblock The organization, The address of the publisher, 3 edition, 1993. ---
+  7. ---
+\newblock An optional note.
+
+\bibitem{Mastersthesis}
+\selectlanguageifdefined{english}
+\BibEmph{Harwood~Peter}. ---
+\newblock The title of the work. ---
+\newblock Master's thesis, The school where the thesis was written, The address
+  of the publisher, 1993. --- 7. ---
+\newblock An optional note.
+
+\bibitem{Misc}
+\selectlanguageifdefined{english}
+\BibEmph{Isley~Peter}. The title of the work. ---
+\newblock How it was published. ---
+\newblock 1993. --- 7. ---
+\newblock An optional note.
+
+\bibitem{Phdthesis}
+\selectlanguageifdefined{english}
+\BibEmph{Joslin~Peter}. The title of the work: Ph.D. thesis~/ The school where
+  the thesis was written. ---
+\newblock The address of the publisher, 1993. --- 7. ---
+\newblock An optional note.
+
+\bibitem{Proceedings}
+\selectlanguageifdefined{english}
+The title of the work~/ Ed. by Peter~Kidwelly; The organization. ---
+\newblock Vol.~4 of \BibEmph{5}, The address of the publisher, 1993. --- 7. The
+  name of the publisher. ---
+\newblock An optional note.
+
+\bibitem{Techreport}
+\selectlanguageifdefined{english}
+\BibEmph{Lambert~Peter}. The title of the work: Tech. Rep.~2. ---
+\newblock The address of the publisher: The institution that published, 1993.
+  --- 7. ---
+\newblock An optional note.
+
+\bibitem{Unpublished}
+\selectlanguageifdefined{english}
+\BibEmph{Marcheford~Peter}. The title of the work. ---
+\newblock An optional note.
+
+\bibitem{medvedev2006jelektronnye}
+\selectlanguageifdefined{russian}
+\BibEmph{Медведев~А.~М.} Электронные компоненты
+  и монтажные подложки. ---
+\newblock 2006. ---
+\newblock URL: \BibUrl{http://www.kit-e.ru/articles/elcomp/2006\_12\_124.php}
+  ({дата обращения}: 19.01.2015).
+
+\bibitem{CEAT:CEAT581}
+\selectlanguageifdefined{english}
+\BibEmph{Deiters~U.~K.} A Modular Program System for the Calculation of
+  Thermodynamic Properties of Fluids~// \BibEmph{Chemical Engineering \&
+  Technology}. ---
+\newblock 2000. ---
+\newblock Vol.~23, no.~7. ---
+\newblock Pp.~581--584.
+
+\bibitem{doi:10.1080/01932691.2010.513279}
+\selectlanguageifdefined{english}
+Deformation of Colloidal Crystals for Photonic Band Gap Tuning~/ {\relax
+  Y}oung-{\relax S}ang~Cho, {\relax Y}oung~{\relax K}uk~Kim, {\relax
+  K}ook~{\relax C}hae~Chung, {\relax C}hul~{\relax J}in~Choi~//
+  \BibEmph{Journal of Dispersion Science and Technology}. ---
+\newblock 2011. ---
+\newblock Vol.~32, no.~10. ---
+\newblock Pp.~1408--1415.
+
+\bibitem{Gosele1999161}
+\selectlanguageifdefined{russian}
+Wafer bonding for microsystems technologies~/ U.~Gösele, Q.-Y.~Tong,
+  A.~Schumacher {и~др.}~// \BibEmph{Sensors and Actuators A: Physical}. ---
+\newblock 1999. ---
+\newblock Т.~74, {№} 1–3. ---
+\newblock {С.}~161 -- 168.
+
+\bibitem{Li2007StressAnalysis}
+\selectlanguageifdefined{english}
+\BibEmph{Li~{\relax L}i, Guo~{\relax Y}ifan, Zheng~{\relax D}awei}. Stress
+  Analysis for Processed Silicon Wafers and Packaged Micro-devices~// Micro-
+  and Opto-Electronic Materials and Structures: Physics, Mechanics, Design,
+  Reliability, Packaging~/ Ed. by E.~Suhir, Y.~C.~Lee, C.~P.~Wong. ---
+\newblock Springer US, 2007. ---
+\newblock Pp.~B677--B709.
+
+\bibitem{Shoji199895}
+\selectlanguageifdefined{english}
+\BibEmph{Shoji~{\relax S}huichi, Kikuchi~{\relax H}iroto, Torigoe~{\relax
+  H}irotaka}. Low-temperature anodic bonding using lithium
+  aluminosilicate-$\beta$-quartz glass ceramic~// \BibEmph{Sensors and
+  Actuators A: Physical}. ---
+\newblock 1998. ---
+\newblock Vol.~64, no.~1. ---
+\newblock Pp.~95 -- 100. ---
+\newblock Tenth \{IEEE\} International Workshop on Micro Electro Mechanical
+  Systems.
+
+\bibitem{test:eisner-sample}
+\selectlanguageifdefined{english}
+Iterative denoising using {J}ensen-{R}enyi divergences with an application to
+  unsupervised document categorization~/ Damianos~Karakos, Sanjeev~Khudanpur,
+  Jason~Eisner, Carey~E.~Priebe~// Proceedings of ICASSP. ---
+\newblock 2007. ---
+\newblock URL: \BibUrl{http://cs.jhu.edu/~jason/papers/\#icassp07}.
+
+\bibitem{AB_patent_Pomerantz_1968}
+\selectlanguageifdefined{english}
+\BibEmph{Pomerantz~D.~I.} Anodic bonding: patent no. 3397278 US. ---
+\newblock 1968.
+
+\bibitem{iofis_patent1960}
+\selectlanguageifdefined{russian}
+\BibEmph{Иофис~Н.~А.} Способ пайки керамики
+  с~керамикой и~стекла с~металлом: а.\,с.~126728
+  СССР. ---
+\newblock 1960. ---
+\newblock Бюл. № 5.~1~{с.}
+
+\bibitem{vakbib1}
+\selectlanguageifdefined{russian}
+\BibEmph{Фамилия~И.~О.} Название статьи~//
+  \BibEmph{Журнал}. ---
+\newblock 2013. ---
+\newblock Т.~1, {№}~5. ---
+\newblock {С.}~100--120.
+
+\bibitem{confbib1}
+\selectlanguageifdefined{russian}
+\BibEmph{Фамилия~И.~О.} название тезисов
+  конференции~// Название сборника. ---
+\newblock 2015.
+
+\end{thebibliography}
